@@ -1,3 +1,19 @@
+# 📊 Stock Portfolio App
+
+A backend API for tracking stock and ETF portfolios with real-time valuation support.
+
+🚀 Built with FastAPI, SQLite, and a modular price service layer ready for live market data (Inderes MCP).
+
+---
+
+## ✨ Highlights
+
+- REST API for portfolio management
+- Automatic valuation and profit/loss tracking
+- Clean architecture (service layer for external data)
+- Ready for real-time market data integration
+
+
 📊 Stock Portfolio App
 
 A backend API for tracking stock and ETF portfolios, built with FastAPI and SQLite.
