@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"Inderes": {
+			"url": "https://mcp.inderes.com",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
